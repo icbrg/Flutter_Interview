@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_interview/screen/foodlist.dart';
 import 'package:flutter_interview/screen/home.dart';
 
 void main() {
