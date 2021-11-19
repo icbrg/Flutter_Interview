@@ -1,6 +1,9 @@
 # flutter_interview
 
-A new Flutter project.
+This is my Flutter Project that I practice on my own. It has 2 pages in this app.
+
+1. Home - has an button and you can go to Foodlist page and see what food available to you.
+2. Food List Page - A list of food that availale now and show a detail of food (Name,Price and Menu Picture).
 
 ## Getting Started
 
