@@ -8,7 +8,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("FoodApp"),
+        title: Text("MyFood"),
       ),
       body: Padding(
         padding: const EdgeInsets.fromLTRB(20, 50, 20, 0),
@@ -16,7 +16,7 @@ class HomeScreen extends StatelessWidget {
           children: [
             Image.asset("assets/images/food_logo.png"),
             Text(
-              "Welcome to FoodApp",
+              "Welcome to MyFood",
               style: TextStyle(
                 fontSize: 30,
               ),
